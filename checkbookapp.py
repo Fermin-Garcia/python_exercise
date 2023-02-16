@@ -65,12 +65,6 @@ def signout():
 
 
 
-  
-
-
-
-# CODE THAT NEEDS TO BE FINISHED 
-
 def menu():
     menu_op = input('''
         Enter a menu number to view that menu.
