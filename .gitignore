@@ -2,3 +2,4 @@ env.py
 __pycache__/
 mysql_login.py
 mysql_login.ipynb
+.ipynb_checkpoints
