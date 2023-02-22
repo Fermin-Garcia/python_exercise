@@ -3,3 +3,5 @@ __pycache__/
 mysql_login.py
 mysql_login.ipynb
 .ipynb_checkpoints
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
